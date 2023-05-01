@@ -3,11 +3,7 @@ h1{
   font-size: 5rem;
 }
 
-.secondary-text {
-  font-size: 20rem;
+.secondary-text{
+  font-style:italic;
   color: gray;
-}
-
-#main-text {
-  color: blue;
 }
