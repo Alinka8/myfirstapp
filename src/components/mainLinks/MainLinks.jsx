@@ -7,3 +7,4 @@ const MainLinks = () => {
 }
 
 export default MainLinks;
+// exporting
